@@ -9,7 +9,7 @@ Export to MP3 (using VBR4 for now) with the following options:
 - Dithering enabled
 
 Import to iTunes and apply the following fields:
-- Song name: `Fatal Error - Episode N`
+- Song name: `Fatal Error - Episode N - Title`
 - Artist: `Soroush Khanlou & Chris Dzombak`
 - Album: `Fatal Error`
 - Album artist: `Soroush Khanlou & Chris Dzombak`
