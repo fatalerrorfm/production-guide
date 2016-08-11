@@ -24,3 +24,10 @@ Copy the resulting MP3 from iTunes to:
 - @cdzombak's archive
 - the Audio Transfer Dropbox folder
 - upload to Squarespace
+
+## Squarespace
+
+Be sure to edit the audio block. In addition to including the title (`Episode N - Title`) and author (`Soroush Khanlou & Chris Dzombak`) in the Embed tab, fill out in the Podcasting tab:
+
+- iTunes Summary: the first ("intro") paragraph of the show notes
+- iTunes Episode Duration: the duration of the episode MP3
