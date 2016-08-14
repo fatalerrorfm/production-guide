@@ -30,4 +30,11 @@ Copy the resulting MP3 from iTunes to:
 Be sure to edit the audio block. In addition to including the title (`Episode N - Title`) and author (`Soroush Khanlou & Chris Dzombak`) in the Embed tab, fill out in the Podcasting tab:
 
 - iTunes Summary: the first ("intro") paragraph of the show notes
-- iTunes Episode Duration: the duration of the episode MP3
+- iTunes Episode Duration: the duration of the episode MP3 (in full `hh:mm:ss` format)
+
+And allow Squarespace to show the Download link on the audio player.
+
+In the settings for each post:
+- schedule for publishing on the right date
+- turn on publishing to the twitter account, via the Social tab
+
