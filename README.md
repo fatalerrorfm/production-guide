@@ -3,6 +3,8 @@ working notes on producing an episode of the Fatal Error podcast
 
 ## Audio Exporting & Tagging
 
+- Run through Levelator before encoding as MP3 (beta)
+
 Export to MP3 (using 64k CBR for now) with the following options:
 - Normalise
 - Strip beginning/ending silence
