@@ -4,6 +4,7 @@ working notes on producing an episode of the Fatal Error podcast
 ## Audio Exporting & Tagging
 
 Export to MP3 (using 64k CBR for now) with the following options:
+- Mono
 - Normalise
 - Strip beginning/ending silence
 - Dithering enabled
