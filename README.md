@@ -11,16 +11,18 @@ Import to iTunes and apply the following fields:
 - Album artist: `Soroush Khanlou & Chris Dzombak`
 - Genre: `Podcast`
 - Artwork: _[podcast artwork](https://github.com/fatalerrorfm/artwork/blob/master/fatal%20error%20icon.png)_
+- Year: the year
 
 iTunes will rename the file appropriately, and we're just using the resulting filename format for consistency.
 
 ## Audio Distribution
 
 Copy the resulting, tagged MP3 from iTunes to:
+
 - @cdzombak's archive
 - the Audio Transfer Dropbox folder
 
-And upload to Squarespace.
+And upload to Squarespace and Patreon.
 
 ## Squarespace
 
@@ -33,5 +35,4 @@ Allow Squarespace to show the Download link on the audio player, and set it to i
 
 In the settings for each post:
 - schedule for publishing on the right date, at 9AM Eastern
-- turn on the switch for publishing to the twitter account, via the Social tab
-
+- turn on the switch for publishing to the Twitter account, via the Social tab
